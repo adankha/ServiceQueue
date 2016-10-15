@@ -11,5 +11,5 @@ The second part works with a Service Queue which also uses the ADT Linked List f
 
 The implementation of the ADT helps support management of a restaurant queue. The program consists of multiple commands that help a restaurant take reservations and seat individuals.
 
-Moreover, the Service Queue also has expected and efficient run-time requirements to help with time efficienies for a big service queue.
+Moreover, the Service Queue also has expected and efficient run-time requirements to help with time efficienies for sufficiently large service queues.
 

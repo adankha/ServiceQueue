@@ -1,9 +1,8 @@
 # Service Queue
-Author: Ashour Dankha
 
 Class: CS 251 Data Structures, Spring 2015
 
-This program has two parts that uses the Linked List ADT( https://github.com/adankha/Linked-Lists ).
+
 
 The first part works with qsort and msort (quicksort and mergesort). The simple program reads from stdin and sorts the values using the different sort methods.
 
